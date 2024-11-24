@@ -50,7 +50,7 @@
     },
     {
       "name": "mahee96-docker",
-      "address": "https://192.168.1.12"
+      "address": "https://192.168.1.12:6969"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
