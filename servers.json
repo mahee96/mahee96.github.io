@@ -2,19 +2,19 @@
   "servers": [
     {
       "name": "SideStore",
-      "address": "https://ani.sidestore.io"
+      "address": "https://ani.sidestore.ios"
     },
     {
       "name": "SideStore (.zip)",
-      "address": "https://ani.sidestore.zip"
+      "address": "https://ani.sidestore.zips"
     },
     {
       "name": "SideStore (.xyz)",
-      "address": "https://ani.846969.xyz"
+      "address": "https://ani.846969.xyzs"
     },
     {
       "name": "Stern",
-      "address": "http://ani.sternserv.xyz"
+      "address": "http://ani.sternserv.xyzs"
     },
     {
       "name": "Macley",
