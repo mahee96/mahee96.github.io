@@ -1,6 +1,14 @@
 {
   "servers": [
     {
+      "name": "mahee96-docker",
+      "address": "http://192.168.2.95:6969"
+    },
+    {
+      "name": "mahee96-render-container",
+      "address": "https://anisette-v3-server-u0o7.onrender.com"
+    },    
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
@@ -48,10 +56,6 @@
       "name": "StikTech",
       "address": "https://ani.stik.tech"
     },
-    {
-      "name": "mahee96-docker",
-      "address": "http://192.168.2.95:6969"
-    }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
